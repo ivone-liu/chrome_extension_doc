@@ -21,3 +21,10 @@
 - Stack Overflow 中的 [google-chrome extension 标签](https://stackoverflow.com/tags/google-chrome-extension/info)。
 
 感谢成为插件开发大家庭中的一员。很高兴能加入我们。
+
+---
+
+**翻译者**
+
+![ivone](https://avatars.githubusercontent.com/u/44830618?s=460&u=0239ed57db6c6a84d084ceb63d397c3cb39db0de&v=4) Ivone i@ivone.me
+
