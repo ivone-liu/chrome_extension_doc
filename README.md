@@ -26,5 +26,5 @@
 
 **翻译者**
 
-<img src="https://avatars.githubusercontent.com/u/44830618?s=460&u=0239ed57db6c6a84d084ceb63d397c3cb39db0de&v=4" width="100px">Ivone [mailto:i@ivone.me](i@ivone.me)
+<img src="https://avatars.githubusercontent.com/u/44830618?s=460&u=0239ed57db6c6a84d084ceb63d397c3cb39db0de&v=4" width="40px">Ivone [mailto:i@ivone.me](i@ivone.me)
 
